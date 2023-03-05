@@ -1,0 +1,28 @@
+/* body{
+    display: flex;
+    background-color: aqua;
+} */
+
+#cabecera{
+    height: 200px;
+    width: 700px;
+    background-color: rgb(239, 202, 52);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Golos Text', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#foto{
+    height: 300px;
+    width: 254px;
+}
+
+#developerText {
+    color: rgb(252, 254, 255);
+    font-family: 'Golos Text', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20PX;
+}
